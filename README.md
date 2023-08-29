@@ -1,2 +1,1 @@
-#Feel free to add more information
-Organizacion creada con el fin de guiar y dar a conocer a los estudiantes el funcionamiento tanto de git como de GitHub
+## Ideas sobre como utilizar este README.md? Recuerden que el repositorio es publico.
